@@ -1,0 +1,11 @@
+C:\Users\Max\Documents\Visual Studio 2017\Projects\CSIWebApp1\CSIWebApp1\bin\Debug\netcoreapp2.0\CSIWebApp1.deps.json
+C:\Users\Max\Documents\Visual Studio 2017\Projects\CSIWebApp1\CSIWebApp1\bin\Debug\netcoreapp2.0\CSIWebApp1.runtimeconfig.json
+C:\Users\Max\Documents\Visual Studio 2017\Projects\CSIWebApp1\CSIWebApp1\bin\Debug\netcoreapp2.0\CSIWebApp1.runtimeconfig.dev.json
+C:\Users\Max\Documents\Visual Studio 2017\Projects\CSIWebApp1\CSIWebApp1\bin\Debug\netcoreapp2.0\CSIWebApp1.dll
+C:\Users\Max\Documents\Visual Studio 2017\Projects\CSIWebApp1\CSIWebApp1\bin\Debug\netcoreapp2.0\CSIWebApp1.pdb
+C:\Users\Max\Documents\Visual Studio 2017\Projects\CSIWebApp1\CSIWebApp1\obj\Debug\netcoreapp2.0\CSIWebApp1.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\Visual Studio 2017\Projects\CSIWebApp1\CSIWebApp1\obj\Debug\netcoreapp2.0\CSIWebApp1.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\Visual Studio 2017\Projects\CSIWebApp1\CSIWebApp1\obj\Debug\netcoreapp2.0\CSIWebApp1.AssemblyInfoInputs.cache
+C:\Users\Max\Documents\Visual Studio 2017\Projects\CSIWebApp1\CSIWebApp1\obj\Debug\netcoreapp2.0\CSIWebApp1.AssemblyInfo.cs
+C:\Users\Max\Documents\Visual Studio 2017\Projects\CSIWebApp1\CSIWebApp1\obj\Debug\netcoreapp2.0\CSIWebApp1.dll
+C:\Users\Max\Documents\Visual Studio 2017\Projects\CSIWebApp1\CSIWebApp1\obj\Debug\netcoreapp2.0\CSIWebApp1.pdb

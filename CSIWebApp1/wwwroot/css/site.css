@@ -1,0 +1,77 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+
+
+.search-main-table {
+    margin-top: 10px;
+    height: 100%;
+    border-style: double;
+    border-color: black;
+}
+
+
+
+.search-secondary-table {
+    margin-top: 10px;
+    border-style: double;
+    height: 30%;
+    border-color: black;
+}
+
+
+
+.details-view {
+    margin-top: 10px;
+    border-style: double;
+    height: 70%;
+    border-color: black;
+}
+
+
+
+.form-area {
+    padding: 5px;
+    margin-top: 10px;
+    border-style: double;
+    height: 60%;
+    border-color: black;
+}
+
+
+
+.search-summary {
+    margin-top: 10px;
+    border-style: double;
+    height: 40%;
+    border-color: black;
+}
+
+
+
+.selected-analytics {
+    margin-top: 10px;
+    border-style: double;
+    height: 100%;
+    border-color: black;
+}
+
+
+
+.global-statistics {
+    margin-top: 10px;
+    border-style: double;
+    height: 35%;
+    border-color: black;
+}
+
+
+
+.selected-statistics {
+    margin-top: 10px;
+    border-style: double;
+    height: 65%;
+    border-color: black;
+}

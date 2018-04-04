@@ -1,0 +1,114 @@
+﻿@{
+    ViewData["Title"] = "Statistics and Analytics";
+}
+<div class="col-md-4">
+    <div class="selected-analytics">
+        <div class="card">
+            <h5 class="card-header">
+                Session Id: //pull from db
+            </h5>
+            <div class="card-block">
+                <p class="card-text">
+                    User Id: //pull from db
+                </p>
+                <p class="card-text">
+                    API Version: //pull from db
+                </p>
+                <p class="card-text">
+                    Server Name: //pull from db
+                </p>
+                <p class="card-text">
+                    Duration: //pull from db
+                </p>
+                <p class="card-text">
+                    Time Stamp: //pull from db modify to readable time
+                </p>
+                <p class="card-text">
+                    Response Code: //pull from db
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-md-8">
+    <div class="global-statistics">
+        <h1 style="text-align: center;">Global Statistics</h1>
+        <p style="text-align: center;">Your statistics would go here</p>
+    </div>
+    <div class="selected-statistics">
+        <div class="row" style="padding-left: 20px; padding-top: 10px; padding-right: 20px;">
+            <form class="form-horizontal">
+                <!-- <div class="col-md-1">
+                    <h3>Type</h3>
+                    <div class="form-group">
+                        <label>
+                            <input type="checkbox" id="countcheck" /> Count
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label>
+                            <input type="checkbox" />Average
+                        </label>
+                    </div>
+                </div> -->
+                <div class="col-md-4">
+                    <h3 style="text-align: center;">Time Frame</h3>
+                    <div class="form-group">
+                        <label for="fromdate" class="col-sm-3 control-label">From Date:</label>
+                        <div class="col-sm-9">
+                            <input class="form-control" type="text" id="fromdate" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="todate" class="col-sm-3 control-label">To Date:</label>
+                        <div class="col-sm-9">
+                            <input class="form-control" type="text" id="todate" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-7">
+                    <h3 style="text-align: center;">Parameters</h3>
+                    <div class="form-group">
+                        <div class="col-md-6">
+                            <input type="text" class="form-control" />
+                        </div>
+                        <div class="col-sm-6">
+                            <select class="form-control">
+                                <option>stuff</option>
+                                <option>stuff1</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-6">
+                            <input type="text" class="form-control" />
+                        </div>
+                        <div class="col-sm-6">
+                            <select class="form-control">
+                                <option>stuff</option>
+                                <option>stuff1</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-6">
+                            <input type="text" class="form-control" />
+                        </div>
+                        <div class="col-sm-6">
+                            <select class="form-control">
+                                <option>stuff</option>
+                                <option>stuff1</option>
+                            </select>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-primary" style="text-align:center">Count</button>
+                    <button type="button" class="btn btn-primary" style="text-align:center">Average</button>
+                </div>
+            </form>
+        </div>
+        <div class="row">
+            <h1 style="text-align:center;">Selected Statistics</h1>
+            <p style="text-align: center;">Your statistics would go here</p>
+        </div>
+    </div>
+</div>
